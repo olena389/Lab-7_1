@@ -1,0 +1,22 @@
+/* Стилі для першого кліку */
+.first-click {
+  background-color: #2b5a91;
+  color: #d147be;
+}
+
+/* Стилі для другого кліку */
+.second-click {
+  background-color: #702b2b;
+  color: #789a82;
+}
+
+button {
+  margin-right: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+img {
+  transition: width 0.3s ease;
+}
